@@ -1,6 +1,6 @@
-(" ")
-("jose daniel arguij torres_1325_3-w")
-(" ")
+print(" ")
+print("jose daniel arguij torres_1325_3-w")
+print(" ")
 
 def sum(lista):
     """Suma todos los números de la lista."""
