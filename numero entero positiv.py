@@ -1,6 +1,6 @@
-(" ")
-("jose daniel arguijo torres_1325_3-w")
-(" ")
+print(" ")
+print("jose daniel arguijo torres_1325_3-w")
+ptint(" ")
 
 def factorial(n):
     if n < 0:
