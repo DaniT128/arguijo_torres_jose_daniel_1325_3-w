@@ -1,6 +1,6 @@
-(" ") 
-("jose daniel arguijo torres_1325_3-w")
-(" ")
+print(" ") 
+print("jose daniel arguijo torres_1325_3-w")
+print(" ")
 
 def longitud_ultima_palabra(texto):
     """Devuelve la longitud de la última palabra en el string dado."""
