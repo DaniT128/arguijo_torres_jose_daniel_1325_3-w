@@ -1,6 +1,6 @@
-(" ")
-("jose daniel arguijo torres_1325_3-w")
-(" ")
+print(" ")
+print("jose daniel arguijo torres_1325_3-w")
+print(" ")
 
 def distancia_dirigida(punto1, punto2):
     """Calcula la distancia dirigida entre dos puntos."""
