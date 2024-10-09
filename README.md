@@ -36,8 +36,7 @@ PROGRAMA 9
 
 
 PROGRAMA 10 
-![image](https://github.com/user-attachments/assets/369dc1b1-ca87-41e1-b7e5-a428f909f51e)
+
 
 
 PROGRAMA 11
-![image](https://github.com/user-attachments/assets/9eaffc89-5e35-44d9-9eaf-cee072d3446c)
