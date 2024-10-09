@@ -1,6 +1,6 @@
-(" ")
-("jose daniel arguijo torres_1325_3-w")
-(" ")
+print(" ")
+print("jose daniel arguijo torres_1325_3-w")
+print(" ")
 
 def es_vocal(caracter):
     """Devuelve True si el carácter es una vocal, de lo contrario False."""
