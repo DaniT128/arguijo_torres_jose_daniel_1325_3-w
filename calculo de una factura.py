@@ -1,6 +1,6 @@
-(" ")
-("jose daniel arguijo torres_1325_3-w")
-(" ")
+ptint(" ")
+print("jose daniel arguijo torres_1325_3-w")
+print(" ")
 
 def calcular_total_con_iva(cantidad_sin_iva, porcentaje_iva=21):
     iva = cantidad_sin_iva * (porcentaje_iva / 100)
