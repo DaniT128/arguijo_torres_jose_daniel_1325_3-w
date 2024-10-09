@@ -1,6 +1,6 @@
-(" ")
-("jose daniel arguijo torres_1325-3-w")
-(" ")
+print(" ")
+print("jose daniel arguijo torres_1325-3-w")
+print(" ")
 
 def mayor_de_tres(num1, num2, num3):
     """Devuelve el mayor de tres números."""
