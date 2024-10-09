@@ -1,6 +1,6 @@
-(" ")
-("jose daniel arguijo torres_1325_3-w")
-(" ")
+print(" ")
+print("jose daniel arguijo torres_1325_3-w")
+print(" ")
 
 def es_email_valido(email):
     """Verifica si el email contiene el símbolo '@'."""
